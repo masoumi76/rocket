@@ -1,7 +1,3 @@
-# Purpose: To Automate Install for Rocket.Chat
-# Script Created by Nicholas Scheetz @ https://scheetz.io
-#
-#
 # -----------------------------BEGIN----------------------------------------
 # Questions
 
